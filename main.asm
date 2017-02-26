@@ -1,6 +1,7 @@
 stm8/
 
 	#include "mapping.inc"
+	#include "STM8S103F.inc"
 
 	segment 'rom'
 main.l
